@@ -1,4 +1,4 @@
-# Open Deeplink Engine for deeplink.org
+# UDL(Uniform Deeplink) Engine for deeplink.org
 
 ## 요약
 
